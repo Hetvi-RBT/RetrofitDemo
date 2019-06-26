@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">webservicedemo</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="username">Username</string>
+    <string name="website">Website</string>
+    <string name="leannegraham">Leanne Graham</string>
+    <string name="breat">Breat</string>
+</resources>
